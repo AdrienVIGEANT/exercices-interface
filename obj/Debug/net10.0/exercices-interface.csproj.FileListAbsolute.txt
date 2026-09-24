@@ -1,0 +1,14 @@
+C:\Users\adrie\Desktop\COURS\2e_année\Projets_LUZEAUX\exercices-interface\bin\Debug\net10.0\exercices-interface.exe
+C:\Users\adrie\Desktop\COURS\2e_année\Projets_LUZEAUX\exercices-interface\bin\Debug\net10.0\exercices-interface.deps.json
+C:\Users\adrie\Desktop\COURS\2e_année\Projets_LUZEAUX\exercices-interface\bin\Debug\net10.0\exercices-interface.runtimeconfig.json
+C:\Users\adrie\Desktop\COURS\2e_année\Projets_LUZEAUX\exercices-interface\bin\Debug\net10.0\exercices-interface.dll
+C:\Users\adrie\Desktop\COURS\2e_année\Projets_LUZEAUX\exercices-interface\bin\Debug\net10.0\exercices-interface.pdb
+C:\Users\adrie\Desktop\COURS\2e_année\Projets_LUZEAUX\exercices-interface\obj\Debug\net10.0\exercices-interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrie\Desktop\COURS\2e_année\Projets_LUZEAUX\exercices-interface\obj\Debug\net10.0\exercices-interface.AssemblyInfoInputs.cache
+C:\Users\adrie\Desktop\COURS\2e_année\Projets_LUZEAUX\exercices-interface\obj\Debug\net10.0\exercices-interface.AssemblyInfo.cs
+C:\Users\adrie\Desktop\COURS\2e_année\Projets_LUZEAUX\exercices-interface\obj\Debug\net10.0\exercices-interface.csproj.CoreCompileInputs.cache
+C:\Users\adrie\Desktop\COURS\2e_année\Projets_LUZEAUX\exercices-interface\obj\Debug\net10.0\exercices-interface.dll
+C:\Users\adrie\Desktop\COURS\2e_année\Projets_LUZEAUX\exercices-interface\obj\Debug\net10.0\refint\exercices-interface.dll
+C:\Users\adrie\Desktop\COURS\2e_année\Projets_LUZEAUX\exercices-interface\obj\Debug\net10.0\exercices-interface.pdb
+C:\Users\adrie\Desktop\COURS\2e_année\Projets_LUZEAUX\exercices-interface\obj\Debug\net10.0\exercices-interface.genruntimeconfig.cache
+C:\Users\adrie\Desktop\COURS\2e_année\Projets_LUZEAUX\exercices-interface\obj\Debug\net10.0\ref\exercices-interface.dll
