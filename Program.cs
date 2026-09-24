@@ -1,5 +1,7 @@
-﻿var produit = new Produit("Clavier", 49.90m);
-var client = new Client("Alice", "alice@example.com");
+﻿IAffichable element = new Produit("Clavier", 49.90m);
 
-produit.Afficher();
-client.Afficher();
+element.Afficher();
+
+element = new Client("Alice", "alice@example.com");
+
+element.Afficher();
