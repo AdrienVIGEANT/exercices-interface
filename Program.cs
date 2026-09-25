@@ -1,14 +1,8 @@
-﻿var produit = new Produit("Clavier", 49.90m);
-var client = new Client("Alice", "alice@example.com");
-var commande = new Commande(1, 199.99m);
+﻿var facture = new Facture("F001");
 
-List<IAffichable> elements = new();
+IImprimable imprimable = facture;
+IExportable exportable = facture;
 
-elements.Add(produit);
-elements.Add(client);
-elements.Add(commande);
+imprimable.Imprimer();
 
-foreach (var element in elements)
-{
-    element.Afficher();
-}
+exportable.Exporter("facture.pdf");
