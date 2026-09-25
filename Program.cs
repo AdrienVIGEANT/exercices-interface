@@ -1,8 +1,3 @@
-﻿var facture = new Facture("F001");
+﻿var facture = new Facture("Facture Septembre", 150.50m);
 
-IImprimable imprimable = facture;
-IExportable exportable = facture;
-
-imprimable.Imprimer();
-
-exportable.Exporter("facture.pdf");
+facture.Imprimer();

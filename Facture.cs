@@ -1,19 +1,15 @@
-public class Facture : IImprimable, IExportable
+public class Facture : Document, IImprimable
 {
-    public string Numero { get; set; }
+    public decimal Montant { get; set; }
 
-    public Facture(string numero)
+    public Facture(string titre, decimal montant)
+        : base(titre)
     {
-        Numero = numero;
+        Montant = montant;
     }
 
     public void Imprimer()
     {
-        Console.WriteLine($"Impression de la facture {Numero}");
-    }
-
-    public void Exporter(string fichier)
-    {
-        Console.WriteLine($"Facture {Numero} exportée vers {fichier}");
+        Console.WriteLine($"Facture : {Titre} - {Montant} €");
     }
 }
